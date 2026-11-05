@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge" alt="LangSmith" />
   <img src="https://img.shields.io/badge/Langfuse-E34F26?style=for-the-badge" alt="Langfuse" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/ChromaDB-FC5245?style=for-the-badge" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   
   <h3> Backend & Base de Datos</h3>
