@@ -3,9 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JuanAngel07595/count.svg" alt="Vistas del perfil" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola+Soy+Juan+Manuel;Backend+e+IA+Applied+Developer;Especialista+en+RAG+y+Agentes)
+
+![Vistas del perfil](https://komarev.com/ghpvc/?username=JuanAngel07595&color=00BFFF&style=flat-square&label=VISTAS+DEL+PERFIL)
+
 </div>
 
+---
 ---
 
 ## 👨‍💻 Sobre mí
