@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Juan+Manuel;Backend+%26+IA+Applied+Developer;Especialista+en+RAG+y+Agentes" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
 
@@ -53,13 +51,10 @@
 </div>
 
 ---
-
-## Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
-
-![Estadísticas de JuanAngel07595](https://github-readme-stats.vercel.app/api?username=JuanAngel07595&theme=tokyonight&show_icons=true&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAngel07595&theme=tokyonight&layout=compact&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanAngel07595&theme=tokyonight&show_icons=true&hide_border=true" alt="Estadísticas de JuanAngel07595" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAngel07595&theme=tokyonight&layout=compact&hide_border=true" alt="Lenguajes más usados" />
 </div>
