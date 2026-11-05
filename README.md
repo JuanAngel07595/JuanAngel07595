@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontAlignY=35&animation=twinkling" alt="Banner" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=Welcome%20to%20my%20Profile!&desc=Bienvenido%20a%20mi%20perfil&fontSize=32&descSize=20&fontAlignY=30&descAlignY=50&animation=twinkling" alt="Banner" width="100%" />
   <br><br>
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola+Soy+Juan+Manuel;Backend+e+IA+Applied+Developer;Especialista+en+RAG+y+Agentes)
